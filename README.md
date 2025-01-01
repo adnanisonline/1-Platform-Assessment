@@ -31,8 +31,8 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd user-permissions-management
+   git clone https://github.com/adnanisonline/1-Platform-Assessment.git
+   cd 1-Platform-Assessment
    ```
 
 2. **Start the Application:**
